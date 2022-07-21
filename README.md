@@ -3,7 +3,9 @@ Created a custom signup form as a Full-stack web-application.
 
 Created the front-end using HTML, CSS, Bootstrap and Javascript.
 
-The back-end was created using NodeJS and ExpressJS, and all user data is linked and sent to MailChimp using the MailChimp API.
+The back-end was created using NodeJS and ExpressJS.
+
+All user data is sent to MailChimp using the MailChimp API, and stored in their database.
 
 The final web-application was deployed using Heroku.
 
