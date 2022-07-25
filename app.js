@@ -36,9 +36,9 @@ app.post("/", function(req, res){
     const url = "https://us17.api.mailchimp.com/3.0/lists/" + listID;
     const options = {
         method: "POST",
-        auth: "ManrajSingh6:2120e0f535de375318d6e9f66691ee45-us17"
+        auth: "ManrajSingh6:{apiKey}"
     }
-    
+        
     const request = https.request(url, options, function(response){
 
         //if successfull response, proceed with the signup process
