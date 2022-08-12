@@ -1,5 +1,5 @@
 # Custom-Signup-Form
-Created a custom signup form as a Full-stack web-application.
+Created a custom email list signup form as a Full-stack web-application.
 
 Created the front-end using HTML, CSS, Bootstrap and Javascript.
 
